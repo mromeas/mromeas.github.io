@@ -8,7 +8,7 @@ author_profile: true
 
 I am a cryptography expert at [ANSSI](https://cyber.gouv.fr), the French cybersecurity agency.
 
-Before that, I was a PhD student in the GRACE team at Ecole Polytechnique and INRIA Saclay under the supervision of [Françoise Levy-dit-Vehel](http://www.levy-dit-vehel.net/).
+Before that, I was a PhD student in the [GRACE](https://team.inria.fr/grace/) team at [Ecole Polytechnique](https://www.polytechnique.edu/en) and [INRIA Saclay](https://www.inria.fr/fr/centre-inria-de-saclay) under the supervision of [Françoise Levy-dit-Vehel](http://www.levy-dit-vehel.net/).
 
 My main research interests are:
  - Post-quantum cryptography, with a particular focus on isogeny-, code- and lattice-based cryptography as well as hybridization.
