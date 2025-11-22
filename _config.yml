@@ -4,6 +4,7 @@
 baseurl: "" 
 #url: "https://mromeas.github.io"
 remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "aqua"
 
 plugins:
   - jekyll-feed
