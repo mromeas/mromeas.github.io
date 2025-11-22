@@ -25,5 +25,3 @@ You can find more details about my work here:
 - [Publications](publications.md)  
 - [Teaching](teaching.md)
 
-
-**Contact**: \[firstname\] dot \[lastname\] at ssi dot gouv dot fr
