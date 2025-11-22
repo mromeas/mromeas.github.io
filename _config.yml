@@ -1,0 +1,37 @@
+title: "Maxime Roméas"
+#email: "maxime dot romeas at ssi dot gouv dot fr"
+description: "Academic website"
+baseurl: "" 
+url: "https://mromeas.github.io"
+theme: minimal-mistakes-jekyll
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-include-cache
+
+# Author information
+author:
+  name: "Maxime Roméas"
+  #avatar: "/assets/img/profile.jpg"
+  bio: "Cryptography expert at ANSSI"
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:maxime.romeas@ssi.gouv.fr"
+    #- label: "GitHub"
+    #  icon: "fab fa-github"
+    #  url: "https://github.com/yourusername"
+    #- label: "Google Scholar"
+    #  icon: "fas fa-graduation-cap"
+    #  url: "https://scholar.google.com/..."
+
+# Navigation menu
+# These link to the Markdown pages below
+header_pages:
+  - index.md
+  - publications.md
+  - teaching.md
+
+# Optional: enable dark mode toggle
+minimal_mistakes_skin: default
