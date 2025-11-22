@@ -3,7 +3,7 @@ title: "Maxime Roméas"
 description: "Academic website"
 baseurl: "" 
 url: "https://mromeas.github.io"
-theme: minimal-mistakes-jekyll
+remote_theme: minimal-mistakes-jekyll
 
 plugins:
   - jekyll-feed
