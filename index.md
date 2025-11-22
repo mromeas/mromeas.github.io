@@ -3,6 +3,7 @@ layout: single
 title: "Maxime Roméas"
 classes: wide
 permalink: /
+author_profile: true
 ---
 
 I am a cryptography expert at [ANSSI](https://cyber.gouv.fr), the French cybersecurity agency.

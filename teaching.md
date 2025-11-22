@@ -3,6 +3,7 @@ layout: single
 title: "Teaching"
 classes: wide
 permalink: /teaching/
+author_profile: true
 ---
 ### 2023/current - CFSSI (ANSSI)
   - **Cryptographie fondée sur les Codes** (**Code-based Cryptography**), lectures and tutorial class

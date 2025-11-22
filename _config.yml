@@ -16,6 +16,7 @@ author:
   name: "Maxime Roméas"
   #avatar: "/assets/img/profile.jpg"
   bio: "Cryptography expert at ANSSI"
+  location: "Paris, France"
   links:
     - label: "Email"
       icon: "fas fa-envelope"

@@ -3,6 +3,7 @@ layout: single
 title: "Publications"
 classes: wide
 permalink: /publications/
+author_profile: true
 ---
 
 ## Conference Papers and Journals
