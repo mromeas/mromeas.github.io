@@ -24,27 +24,27 @@ permalink: /publications/
      [paper](https://arxiv.org/abs/2204.11653).
 
 ## Presentations
-  - *Compact, Efficient and CCA-Secure Updatable Encryption from Isogenies.* \
+  - **Compact, Efficient and CCA-Secure Updatable Encryption from Isogenies.** \
      Séminaire de Théorie Algorithmique des Nombres de Bordeaux (November 25, 2025)
-  - *Updatable Encryption from Group Actions.* \
+  - **Updatable Encryption from Group Actions.** \
      Séminaire de Cryptographie de Rennes (January 24, 2025)
-  - *Lattice-based Cryptanalysis.* \
+  - **Lattice-based Cryptanalysis.** \
      ANSSI cryptography seminar - Paris (November 28, 2024) 
-  - *Updatable Encryption from Group Actions.* \
+  - **Updatable Encryption from Group Actions.** \
      PQCrypto - Oxford (June 13, 2024)
-  - *Code-based Proofs of Retrievability.* \
+  - **Code-based Proofs of Retrievability.** \
      Séminaire Mathématiques Discrètes, Codes et Cryptographie de l'Université Paris 8 (May 23, 2024)
-  - *Modeling and construction of interactive cryptographic protocols for outsourced storage.* \
+  - **Modeling and construction of interactive cryptographic protocols for outsourced storage.** \
      PhD defence - Saclay (November 29, 2022)
-  - *Efficient Proofs of Retrievability using Expander Codes.* \
+  - **Efficient Proofs of Retrievability using Expander Codes.** \
      CANS - Abu Dhabi (November 16, 2022)
-  - *A Framework for the Design of Secure and Efficient Proofs of Retrievability.* \ 
+  - **A Framework for the Design of Secure and Efficient Proofs of Retrievability.** \ 
      I4CS - Virtual (October 28, 2022)
-  - *A Framework for the Design of Secure and Efficient Proofs of Retrievability.* \
+  - **A Framework for the Design of Secure and Efficient Proofs of Retrievability.** \
      GRACE Seminar - Saclay (May 17, 2022)
-  - *A Composable Look at Provable Security in Cryptography.* \
+  - **A Composable Look at Provable Security in Cryptography.** \
      GRACE Young Seminar - Saclay (January 15, 2021)
-  - *Constructive Cryptography: presentation and application to outsourced storage.* \
+  - **Constructive Cryptography: presentation and application to outsourced storage.** \
      GRACE Seminar - Saclay (November 5, 2019 with a follow-up on November 19)
 
 ## Reviews

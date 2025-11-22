@@ -1,8 +1,8 @@
-#title: "Maxime Roméas"
+title: ""
 #email: "maxime dot romeas at ssi dot gouv dot fr"
 #description: "Academic website"
 baseurl: "" 
-#url: "https://mromeas.github.io"
+url: "https://mromeas.github.io"
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "dark"
 
