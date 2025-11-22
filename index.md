@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Maxime Roméas"
+classes: wide
 permalink: /
 ---
 
