@@ -40,7 +40,7 @@ author_profile: true
      PhD defence - Saclay (November 29, 2022)
   - **Efficient Proofs of Retrievability using Expander Codes.** \
      CANS - Abu Dhabi (November 16, 2022)
-  - **A Framework for the Design of Secure and Efficient Proofs of Retrievability.** \ 
+  - **A Framework for the Design of Secure and Efficient Proofs of Retrievability.** \
      I4CS - Virtual (October 28, 2022)
   - **A Framework for the Design of Secure and Efficient Proofs of Retrievability.** \
      GRACE Seminar - Saclay (May 17, 2022)
