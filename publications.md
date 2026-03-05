@@ -7,6 +7,10 @@ author_profile: true
 ---
 
 ## Conference Papers and Journals
+  - **DAKE: Bandwidth-Efficient (U)AKE from Double-KEM**, with H. Beguinet, C. Chevalier, G. Lebrun, T. Legavre, T. Ricosset and E. Sageloli. \
+     PKC 2026, [paper](https://eprint.iacr.org/2025/1755).
+  - **Compact, Efficient and Non-Separable Hybrid Signatures**, with J. Devevey and M. Guerreau. \
+     PQC 2026, [paper](https://eprint.iacr.org/2025/2059).
   - **Updatable Encryption from Group Actions**, with A. Leroux. \
      PQC 2024, [paper](https://eprint.iacr.org/2022/739).
   - **Efficient Proofs of Retrievability using Expander Codes**, with F. Levy-dit-Vehel. \
@@ -16,12 +20,9 @@ author_profile: true
 
 ## Preprints
 
-  - **Compact, Efficient and Non-Separable Hybrid Signatures**, with J. Devevey and M. Guerreau. \
-     [paper](https://eprint.iacr.org/2025/2059).
+
   - **Compact, Efficient and CCA-Secure Updatable Encryption from Isogenies**, with A. Leroux. \
      [paper](https://eprint.iacr.org/2025/1853).
-  - **DAKE: Bandwidth-Efficient (U)AKE from Double-KEM**, with H. Beguinet, C. Chevalier, G. Lebrun, T. Legavre, T. Ricosset and E. Sageloli. \
-     [paper](https://eprint.iacr.org/2025/1755).
   - **Interactivity in Constructive Cryptography: Modeling and Application to Updatable Encryption and Private Information Retrieval**, with F. Levy-dit-Vehel. \
      [paper](https://arxiv.org/abs/2204.11653).
 
@@ -51,10 +52,10 @@ author_profile: true
 
 ## Reviews
 
-Sub-reviewer for conferences:
- - CRYPTO 2025
- - EUROCRYPT 2025
- - ISC 2024
- - PKC 2024
- - EUROCRYPT 2024
- - ISIT 2022
+Reviewer and sub-reviewer for conferences:
+ - CRYPTO (2025)
+ - EUROCRYPT (2025, 2024)
+ - ISIT (2022)
+ - ISC (2024)
+ - PKC (2026, 2024)
+ - SAC (2026)
