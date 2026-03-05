@@ -1,10 +1,11 @@
-title: ""
+title: "Maxime Roméas, researcher in cryptography"
 #email: "maxime dot romeas at ssi dot gouv dot fr"
-#description: "Academic website"
+description: "Academic website of Maxime Roméas, researcher in cryptography"
 baseurl: "" 
 url: "https://mromeas.github.io"
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "dark"
+google_site_verification: "Ov4cGTKZHsXIHO80mjdJ0BRmCxo0pTT0EJSKJf57fTs"
 
 plugins:
   - jekyll-feed
